@@ -21,5 +21,6 @@
 </footer>
 
 <script src="/resource/js/templatemo-nexus-scripts.js"></script>
+<script src="/resource/js/scripts.js"></script>
 </body>
 </html>
