@@ -32,7 +32,7 @@
             <li><a href="#contact">Контакты</a></li>
         </ul>
         <div class="nav-bottom">
-            <a href="" class="cyber-button">РесурсДружественный</a>
+            <a href="" class="cyber-button">Ресурс Дружественный</a>
         </div>
         <button class="mobile-menu-button" id="mobileMenuBtn">
             <div class="hamburger">
@@ -48,11 +48,11 @@
 <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
 <div class="mobile-menu" id="mobileMenu">
     <div class="mobile-menu-header">
-        <a href="#top" class="mobile-menu-logo">NexusFlow</a>
+        <a href="#top" class="mobile-menu-logo">CMS TheSolarWind</a>
         <button class="mobile-menu-close" id="mobileMenuClose">✕</button>
     </div>
     <div class="mobile-menu-cta">
-        <a href="#" class="cyber-button">Access Terminal</a>
+        <a href="#" class="cyber-button">Ресурс Дружественный</a>
     </div>
     <nav class="mobile-menu-nav">
         <ul>
@@ -68,12 +68,12 @@
 <section class="hero">
     <div class="hero-container">
         <h1 class="hero-title">
-            <span class="hero-nexus">NEXUS</span><span class="hero-flow">FLOW</span>
+            <span class="hero-nexus">CMS</span><span class="hero-flow">TheSolarWind</span>
         </h1>
-        <p class="hero-subtitle">The quantum leap in team collaboration. Connect minds, sync realities, achieve impossible.</p>
+        <p class="hero-subtitle">Индивидуальный проект Ларионова Андрея Николаевича</p>
         <div class="hero-buttons">
-            <a href="#" class="btn-primary">Initialize System</a>
-            <a href="#" class="btn-secondary">View Documentation</a>
+            <a href="#" class="btn-primary">Инсталляция системы</a>
+            <a href="#" class="btn-secondary">Документация с примерами</a>
         </div>
     </div>
 </section>
