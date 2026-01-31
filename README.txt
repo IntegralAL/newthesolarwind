@@ -12,13 +12,14 @@
    Папка
         /app
 	        /Controller
-		/Models
-		/Views
-	/cloud
-	/resource
+		    /Models
+		    /Views
+	    /cloud
+	    /resource
 	Config.php
 	index.php
 	README.txt
+	epilog.php
 
 Создайте базу данных, как определено в файле app\Models\Class_Config.php
 
