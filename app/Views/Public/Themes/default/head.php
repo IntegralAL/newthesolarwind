@@ -32,3 +32,12 @@ $Paggination_ = new Class_Paggination();   // 13
 $RUS_text['Creator'] = 'Ларионов Андрей';
 $RUS_text['Copyright'] = 'integral@mail.ru';
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMS TheSolarWind проект Ларионова Андрея Николаевича</title>
+    <link href="resource/css/templatemo-nexus-style.css" rel="stylesheet">
+</head>
