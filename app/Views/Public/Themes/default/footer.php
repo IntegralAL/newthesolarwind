@@ -20,7 +20,7 @@
     </div>
 </footer>
 
-<script src="/resource/js/templatemo-nexus-scripts.js"></script>
-<script src="/resource/js/scripts.js"></script>
+<script src="resource/js/templatemo-nexus-scripts.js"></script>
+<script src="resource/js/script.js"></script>
 </body>
 </html>

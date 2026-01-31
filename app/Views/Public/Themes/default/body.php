@@ -83,20 +83,20 @@
     <div class="stats-container">
         <div class="stats-grid">
             <div class="stat-item">
-                <span class="stat-number">50K+</span>
-                <span class="stat-label">Active Users</span>
+                <span class="stat-number">20+</span>
+                <span class="stat-label">Активных проектов</span>
             </div>
             <div class="stat-item">
                 <span class="stat-number">99.9%</span>
-                <span class="stat-label">Uptime</span>
+                <span class="stat-label">Успешных проектов</span>
             </div>
             <div class="stat-item">
                 <span class="stat-number">500M+</span>
-                <span class="stat-label">Tasks Processed</span>
+                <span class="stat-label">Прибыль</span>
             </div>
             <div class="stat-item">
                 <span class="stat-number">180+</span>
-                <span class="stat-label">Countries</span>
+                <span class="stat-label">Выгода в часах до</span>
             </div>
         </div>
     </div>
@@ -106,45 +106,45 @@
 <section class="features fade-up" id="features">
     <div class="features-container">
         <div class="section-header">
-            <h2 class="section-title">Core Systems</h2>
-            <p class="section-subtitle">Advanced modules designed for maximum efficiency and seamless integration</p>
+            <h2 class="section-title">Преимущества системы CMS TheSolarWind</h2>
+            <p class="section-subtitle">Понятная и современная система для опытных и начинающих разработчиков</p>
         </div>
 
         <div class="features-grid">
             <div class="feature-card">
                 <div class="feature-icon">⚡</div>
-                <h3>Quantum Processing</h3>
-                <p>Experience lightning-fast data processing with our quantum-inspired algorithms that handle complex workflows in microseconds.</p>
+                <h3>Оптимальность и доступность</h3>
+                <p>Проект создан исключительно на энтузиазме разработчика и доступен для создания различных проектов</p>
             </div>
 
             <div class="feature-card">
                 <div class="feature-icon">🔮</div>
-                <h3>Neural Networks</h3>
-                <p>AI-powered decision making that learns from your team's patterns and optimizes collaboration in real-time.</p>
+                <h3>Возможность поддержки</h3>
+                <p>Возможность поддержки проекта и расширения круга разразботчиков для проектирования более продвинутых систем</p>
             </div>
 
             <div class="feature-card">
                 <div class="feature-icon">🌐</div>
-                <h3>Holographic Interface</h3>
-                <p>Immersive 3D workspace that transcends traditional boundaries, bringing remote teams into a shared reality.</p>
+                <h3>Индивидуальный интерфейс</h3>
+                <p>Разработчики сами проектируют интефейс и загружают свои шаблоны для проекта</p>
             </div>
 
             <div class="feature-card">
                 <div class="feature-icon">🛡️</div>
-                <h3>Quantum Encryption</h3>
-                <p>Military-grade security protocols with quantum encryption that makes your data literally impossible to breach.</p>
+                <h3>Безопасность </h3>
+                <p>Безопасность проектов и простота кода для разработки современных систем</p>
             </div>
 
             <div class="feature-card">
                 <div class="feature-icon">🚀</div>
-                <h3>Hyperdrive Sync</h3>
-                <p>Instantaneous synchronization across all devices and platforms with zero latency, no matter the distance.</p>
+                <h3>Бесплатные технологии</h3>
+                <p>Эти технологии абсолютно бесплатны и доступны для каждого, кто пожелает использовать данную систему</p>
             </div>
 
             <div class="feature-card">
                 <div class="feature-icon">🎯</div>
-                <h3>Mind Reading Analytics</h3>
-                <p>Predictive analytics so advanced, it anticipates your team's needs before they even know what they need.</p>
+                <h3>Ведение логов и протоколов</h3>
+                <p>Система позволяет получать логи и отлаживать код в реальном времени без лишних усилий и затрат</p>
             </div>
         </div>
     </div>
@@ -154,53 +154,53 @@
 <section class="pricing fade-up" id="pricing">
     <div class="pricing-container">
         <div class="section-header">
-            <h2 class="section-title">Access Levels</h2>
-            <p class="section-subtitle">Choose your gateway to the future of collaboration</p>
+            <h2 class="section-title">Платные версии поддержки</h2>
+            <p class="section-subtitle">Если вы хотите стабильность проекта, то возможно можно заплатить разработчику за поддержку ваших проектов</p>
         </div>
 
         <div class="pricing-grid">
             <div class="pricing-card">
-                <div class="plan-name">Initiate</div>
-                <div class="plan-price">$49</div>
-                <div class="plan-period">per neural link</div>
+                <div class="plan-name">Инсталляция</div>
+                <div class="plan-price">$1</div>
+                <div class="plan-period">Цена поддержки</div>
                 <ul class="plan-features">
-                    <li>Basic quantum processing</li>
-                    <li>5 holographic workspaces</li>
-                    <li>Standard encryption</li>
-                    <li>Community support matrix</li>
-                    <li>Reality sync enabled</li>
+                    <li>Базовая установка проекта</li>
+                    <li>Разворачивание на хостинге</li>
+                    <li>Предоставление расширенной документации</li>
+                    <li>Консультации для разработчиков</li>
                 </ul>
-                <a href="#" class="btn-secondary">Enter System</a>
+                <a href="#" class="btn-secondary">Заплатить</a>
             </div>
 
             <div class="pricing-card featured">
-                <div class="plan-name">Nexus</div>
-                <div class="plan-price">$149</div>
-                <div class="plan-period">per neural link</div>
+                <div class="plan-name">Сопровождение</div>
+                <div class="plan-price">$15</div>
+                <div class="plan-period">Цена поддержки</div>
                 <ul class="plan-features">
-                    <li>Advanced quantum algorithms</li>
-                    <li>Unlimited holo-workspaces</li>
-                    <li>Quantum encryption fortress</li>
-                    <li>Priority neural support</li>
-                    <li>Mind-reading analytics</li>
-                    <li>Hyperdrive sync protocol</li>
+                    <li>Базовая установка проекта</li>
+                    <li>Разворачивание на хостинге</li>
+                    <li>Предоставление расширенной документации</li>
+                    <li>Консультации для разработчиков</li>
+                    <li>Сопровождение проекта</li>
+                    <li>Наполнение данными</li>
                 </ul>
-                <a href="#" class="btn-primary">Jack In</a>
+                <a href="#" class="btn-primary">Заплатить</a>
             </div>
 
             <div class="pricing-card">
-                <div class="plan-name">Transcend</div>
-                <div class="plan-price">$399</div>
-                <div class="plan-period">per neural link</div>
+                <div class="plan-name">Разработка на CMS</div>
+                <div class="plan-price">$30</div>
+                <div class="plan-period">Цена разразботки</div>
                 <ul class="plan-features">
-                    <li>Infinite processing power</li>
-                    <li>Custom reality matrices</li>
-                    <li>Temporal encryption layers</li>
-                    <li>Direct neural interface</li>
-                    <li>Predictive consciousness</li>
-                    <li>Quantum entanglement sync</li>
+                    <li>Базовая установка проекта</li>
+                    <li>Разворачивание на хостинге</li>
+                    <li>Предоставление расширенной документации</li>
+                    <li>Консультации для разработчиков</li>
+                    <li>Сопровождение проекта</li>
+                    <li>Наполнение данными</li>
+                    <li>Разработка проекта с нужным шаблоном</li>
                 </ul>
-                <a href="#" class="btn-secondary">Ascend</a>
+                <a href="#" class="btn-secondary">Заплатить</a>
             </div>
         </div>
     </div>
@@ -210,28 +210,28 @@
 <section class="contact fade-up" id="contact">
     <div class="contact-container">
         <div class="section-header">
-            <h2 class="section-title">Initialize Contact</h2>
-            <p class="section-subtitle">Send a transmission through the neural network</p>
+            <h2 class="section-title">Контакт для связи</h2>
+            <p class="section-subtitle">Отправить сообщение для разработчика</p>
         </div>
 
         <div class="contact-form-wrapper">
             <div class="contact-form">
                 <div class="form-group">
-                    <label for="name">Neural ID</label>
-                    <input type="text" id="name" name="name" placeholder="Enter your designation" required>
+                    <label for="name">Ваше имя</label>
+                    <input type="text" id="name" name="name" placeholder="Введите свое имя" required>
                 </div>
 
                 <div class="form-group">
-                    <label for="email">Quantum Address</label>
+                    <label for="email">Ваш Email</label>
                     <input type="email" id="email" name="email" placeholder="your.id@nexusflow.com" required>
                 </div>
 
                 <div class="form-group">
-                    <label for="message">Transmission</label>
-                    <textarea id="message" name="message" rows="5" placeholder="Compose your message to the network..." required></textarea>
+                    <label for="message">Описание запроса</label>
+                    <textarea id="message" name="message" rows="5" placeholder="Описание запроса" required></textarea>
                 </div>
 
-                <button type="submit" class="btn-primary btn-submit">Transmit Message</button>
+                <button type="submit" class="btn-primary btn-submit">Отправить сообщение</button>
             </div>
         </div>
     </div>
